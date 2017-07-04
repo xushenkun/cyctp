@@ -1,0 +1,3 @@
+include cyctp/LICENSE.txt
+
+recursive-include cyctp/lib *
